@@ -400,3 +400,4 @@ public class Calculadora extends javax.swing.JFrame {
   private javax.swing.JLabel vacio1;
   // End of variables declaration//GEN-END:variables
 }
+// Nueva linea desde mi cuenta
