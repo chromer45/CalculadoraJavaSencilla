@@ -6,7 +6,7 @@
 
 /**
  *
- * @author cris
+ * @author cristian
  */
 public class Calculadora extends javax.swing.JFrame {
 
